@@ -1,9 +1,5 @@
 # Hi, I'm Chai Lover 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer;Always+Learning+%26+Building;Code+%2B+Chai+%E2%98%95" alt="Typing SVG" />
-</p>
-
 💻 Web Developer
 🌱 Always learning and building
 ☕ Code + Chai
@@ -16,12 +12,10 @@ HTML • CSS • JavaScript • Node.js • Git • GitHub
 
 ### 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chai-lover&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<a href="https://github.com/chai-lover">
+  <img src="https://count.getloli.com/@chai-lover?name=chai-lover&theme=booru-v2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
+</a>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+⭐ Thanks for visiting my profile!
