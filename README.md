@@ -10,6 +10,10 @@ I enjoy creating simple, useful, and modern web applications.
 
 HTML • CSS • JavaScript • Node.js • Git • GitHub
 
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=chai-lover\&color=blue)
+
 ---
 
 ⭐ Thanks for visiting my profile!
