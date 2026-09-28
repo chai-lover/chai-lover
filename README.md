@@ -10,8 +10,10 @@ I enjoy creating simple, useful, and modern web applications.
 
 HTML • CSS • JavaScript • Node.js • Git • GitHub
 
+### 👀 Profile Views
+
 <a href="https://github.com/chai-lover">
-  <img src="https://komarev.com/ghpvc/?username=chai-lover&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=chai-lover&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </a>
 
 ---
