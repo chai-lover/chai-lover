@@ -12,9 +12,7 @@ HTML • CSS • JavaScript • Node.js • Git • GitHub
 
 ### 👀 Profile Views
 
-<a href="https://github.com/chai-lover">
-  <img src="https://komarev.com/ghpvc/?username=chai-lover&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=chai-lover\&label=Profile%20Views\&color=blue\&style=for-the-badge)](https://github.com/chai-lover)
 
 ---
 
